@@ -1,6 +1,5 @@
 import pygame
 import sys
-import time
 import pygame.font
 import pygame.gfxdraw
 import numpy as np
